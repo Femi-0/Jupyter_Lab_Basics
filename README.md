@@ -1,10 +1,10 @@
 # python-homework
 
 ## Dependencies
-Python 3.9.7
-Pandas
-Jupyter Lab
+- Python 3.9.7
+- Pandas
+- Jupyter Lab
 
 ## Instruction
-Pointing the working folder, run "Jupyter Lab"
-All code is placed in "main.ipynb" file
+1. Pointing the working folder, run "Jupyter Lab"
+2. All code is placed in "main.ipynb" file
